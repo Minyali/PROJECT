@@ -1,0 +1,1035 @@
+ 
+
+.head-style{
+    color:burlywood;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 350px;
+    text-decoration:blue underline;
+}
+
+body{
+background-repeat:no-repeat;
+background-position: right;
+background-attachment: fixed;
+background-size: 250px;
+background-color: rgb(67, 133, 172);
+
+}
+
+ 
+.shishi{
+    margin-left: 50px;
+    background: transparent;
+    border: 1px solid;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border-color: rgb(233, 10, 95);
+}
+ 
+
+.shishi-button:hover{
+background-color: rgb(206, 11, 196);
+}
+
+ 
+.menu{
+    margin-top: 1%;
+   background-color: black;
+   color: aliceblue;
+   border-color: rgb(226, 9, 9);
+   cursor: pointer;
+}
+
+
+.menu-position{
+    margin-left: 185px;
+}
+
+.menu-title{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 150px;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+}
+.back-home{
+    height: 20px;
+    width: 50px;
+    color: red;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.back-home2:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.menu-body{
+    background-color: blue;
+}
+
+.menu-div{
+    margin-left: 100px;
+    color: rgb(12, 207, 93);
+    font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: bold;
+}
+
+.title-menu{
+    font-family:'Times New Roman', Times, serif ;
+    background-color: rgb(199, 9, 206);
+    color: rgb(0, 0, 0);
+    margin-left: 250px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ 
+.biriani,.chips-kuku,.chips-mishikaki,.kuku-ndizi,.pilau-rosti{ 
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+    border-color: rgb(107, 10, 233);
+    display: -ms-inline-grid;
+}
+
+.b,.b2,.b3,.c,.c2,.c3,.m,.m2,.m3,.n,.n2,.n3{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 60px; 
+    cursor: pointer;
+}
+
+.b:hover{
+    background-color:blue;
+}
+
+.b2:active{
+    background-color: red;
+}
+
+.b3:active{
+    background-color: red;
+}
+
+.c:hover{
+    background-color: blue;
+}
+
+.c2:active{
+    background-color: red;
+}
+
+.c3:active{
+    background-color: red;
+}
+
+.m:hover{
+    background-color: blue;
+}
+
+.m2:active{
+background-color: red;
+}
+
+.m3:active{
+    background-color: red;
+}
+
+.n:hover{
+    background-color: blue;
+}
+
+.n2:active{
+    background-color: red;
+}
+
+.n3:active{
+    background-color: red;
+}
+
+ 
+.pilau-rosti,.ugali-nyama,.wali-nyama,.wali-samaki{
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+    border-color: rgb(233, 10, 95);
+    display: -ms-inline-grid;
+}
+
+ 
+.p,.p2,.p3,.u,.u2,.u3,.w,.w2,.w3,.s,.s2,.s3,.b4,.c4,.m4,.n4,.p4,.u4,.w4,.s4,.b5,.c5,.m5,.n5,.p5,.u5,.w5,.s5{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border-radius: 60px; 
+    cursor: pointer;
+}
+
+.b4,.c4,.m4,.n4,.p4,.u4,.w4,.s4,.b5,.c5,.m5,.n5,.p5,.u5,.w5,.s5{
+background-color: red;
+}
+
+.b4:active{
+    background-color: blue;
+}
+
+.c4:active{
+    background-color: blue;
+}
+
+.m4:active{
+    background-color: blue;
+}
+
+.n4:active{
+    background-color: blue;
+}
+
+.p4:active{
+    background-color: blue;
+}
+
+.u4:active{
+    background-color: blue;
+}
+
+.w4:active{
+    background-color: blue;
+}
+
+.s4:active{
+    background-color: blue;
+}
+
+.b5:active{
+    background-color: blue;
+}
+
+.c5:active{
+    background-color: blue; 
+}
+
+.m5:active{
+    background-color: blue;
+}
+
+.n5:active{
+    background-color: blue; 
+}
+
+.p5:active{
+    background-color: blue;
+}
+
+.u5:active{
+    background-color: blue;
+}
+
+.w5:active{
+    background-color: blue;
+}
+
+.s5:active{
+    background-color: blue;
+}
+.b-car{
+   background-color: blue;
+   color: white;
+   font-size: 20px; 
+   font-family: 'Times New Roman', Times, serif; 
+   font-weight: bold;
+}
+
+.c{
+    margin-left: 50px;
+}
+
+.c-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.m{
+    margin-left: 60px ;
+}
+
+.m-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.n{
+    margin-left: 95px;
+}
+
+.n-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.p{
+    margin-left: 35px;
+}
+
+.p-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.u{
+   margin-left: 85px; 
+}
+
+.u-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.w{
+    margin-left: 95px;
+}
+
+.w-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.s{
+    margin-left: 85px;
+}
+
+.s-car{
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+ }
+
+.be1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.be2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.be3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.be4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.be5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.be6{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px; 
+}
+
+.be7{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px; 
+}
+
+.be8{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.p:hover{
+background-color: blue;
+}
+
+.p2:active{
+    background-color: red;
+}
+
+.p3:active{
+    background-color: red;
+}
+
+.u:hover{
+    background-color: blue;
+}
+
+.u2:active{
+    background-color: red;
+}
+
+.u3:active{
+    background-color: red;
+}
+
+.w:hover{
+    background-color: blue;
+}
+
+.w2:active{
+    background-color: red;
+}
+
+.w3:active{
+    background-color: red;
+}
+
+.s:hover{
+    background-color: blue;
+}
+
+.s2:active{
+    background-color: red;
+}
+
+.s3:active{
+    background-color: red;
+}
+
+.head-chaguzi{
+    background-color: rgb(10, 187, 98);
+    margin-top: 65%;
+}
+
+.ona-chaguzi1,.ona-chaguzi2,.ona-chaguzi3,.ona-chaguzi4,.ona-chaguzi5,.ona-chaguzi6,.ona-chaguzi7,.ona-chaguzi8
+{
+    color: rgb(69, 7, 216);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+
+ 
+.taarifa{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(27, 223, 9);
+}
+
+
+.submit{
+    background-color: blue;
+}
+.submit:active{
+    background-color: red;
+}
+
+
+.reset{
+    background-color:blue ;
+}
+.reset:active{
+    background-color: red;
+}
+
+.ona-chaguzi9{
+    background-color: aliceblue;
+    color: black;
+}
+
+ .continue-oder{
+    background-color: white;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 150px;
+ }
+
+ .continue-oder:active{
+    background-color: blue;
+ }
+
+.particulars{
+    background-color: green;
+}
+
+ 
+
+
+
+
+.lebo{
+    width: 940px;
+    height: 180px;
+    margin-left: 30px;
+}
+
+.separate{
+    background-color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+ .car-number{
+ background-color: rgb(133, 24, 133);
+ color: aliceblue;
+ font-size: 20px;
+ }
+
+ .car-name{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+ }
+
+.car-price{
+    background-color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.trans-cost{
+    background-color: rgb(78, 37, 230);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.head-account{
+    margin-top: 66%;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head-account2{
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.account-create{
+    background-color: yellow;
+    color: blueviolet;
+    font-weight: bold;
+    margin-left: 110px;
+}
+
+.account-create:active{
+background-color: red;
+}
+
+.forget-background{
+    background-color: darkgreen;
+}
+
+ 
+  .log-btn{   
+         background-color: #4CAF50;   
+         width: 100%;  
+          color: orange;   
+          padding: 5px;     
+          border: none;   
+          cursor: pointer; 
+           }   
+   form {   
+          border: 3px solid #f1f1f1;   
+      }   
+   input[type=text], input[type=password] {     
+          margin: 8px 0;    
+          display: inline-block;   
+          border: 2px solid green;   
+          box-sizing: border-box;   
+      }  
+ .log-btn:hover {   
+          opacity: 0.7;   
+      }   
+.cancelbtn {   
+          width: auto;   
+          padding: 10px 18px;  
+          margin: 10px 5px;  
+      }   
+          
+       
+   .container {   
+          padding: 25px;   
+          background-color: lightblue;  
+      }   
+
+      .logo-account{
+        margin-left: 200px;
+        background: transparent;
+        border: 1px solid;
+        width: 80px;
+        height: 80px;
+        border-radius: 20px;
+        cursor: pointer;
+        border-color: rgb(233, 10, 95);
+      }
+
+      * Add a black background color to the top navigation */
+      .topnav {
+          background-color: #333;
+          overflow: hidden;
+        }
+        
+        /* Style the links inside the navigation bar */
+        .topnav a {
+          float: left;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          font-size: 17px;
+        }
+        
+        /* Change the color of links on hover */
+        .topnav a:hover {
+          background-color: #ddd;
+          color: rgb(63, 7, 216);
+        }
+        
+        /* Add a color to the active/current link */
+        .topnav a.active {
+          background-color: #04AA6D;
+          color: white;
+        }
+
+    
+
+
+
+
+
+ 
+    .slider{
+        height: 430px;
+        margin: auto;
+        position: relative;
+        overflow: hidden;
+        width: 960px;
+    }
+    
+    .list{
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 400px;
+        display: flex;
+        transition: 1s;
+        width: 950px;
+    }
+    .list img{
+    width: 930px;
+    height: 350px;
+    margin-left: 30px;
+    border-radius: 30px;
+    }
+    
+    .link{
+        position: absolute;
+        top: 45%;
+        display: flex;
+        padding-left: 450PX;
+        text-decoration: none;
+        color: red;
+    }
+    .link:hover{
+        background-color: blue;
+    }
+    .numbertext{
+        color: red;
+        position: absolute;
+        top: 35%;
+        display: flex;
+        font-size: 25px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+    .numbertext:hover{
+        background-color: blue;
+    } 
+    .buttons{
+        position: absolute;
+        top: 45%;
+        left: 5%;
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .buttons button{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: rgb(221, 13, 30);
+        color: white;
+        border: none;
+        font-family: monospace;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    
+    .buttons button:hover{
+        background-color: blue;
+    }
+    .dots{
+        position: absolute;
+        bottom: 10px;
+        color: rgb(204, 15, 157);
+        left: 0;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .dots li{
+        list-style: none;
+        width: 10px;
+        background-color: rgb(147, 224, 23);
+        margin: 20px;
+        border-radius: 20px;
+        transition: 1s;
+        cursor: pointer;
+    }
+    
+    .dots li.active{
+        width: 30px;
+        background-color: red;
+    }
+    .dots li.active:hover{
+        background-color: blue;
+    }
+    
+    
+    @media screen and (max-width: 768px){
+        .slider{
+            height: 400px;
+        }
+    }
+
+
+
+ 
+ 
+.footer{
+   background-color: rgb(66, 49, 49);
+   border-radius: 20px;
+}
+.footer h3{
+    color: #ddd;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.footer button{
+font-family: 'Times New Roman', Times, serif;
+    background-color: greenyellow;
+    font-size: 20px;
+}
+
+ 
+.split1{
+    height: 60%;
+    width: 25%;
+    position: absolute;
+    z-index: 1;
+    margin-top: 1%;
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.left{
+    left: 0;
+    background-color: tan;
+}
+.right{
+    right: 0;
+    background-color: red;
+}
+
+.middle1{
+    left: 25%;
+    background-color: rgb(8, 194, 39);
+}
+  
+.middle2{
+   left: 50%;
+    background-color: rgb(166, 194, 8);
+}
+  
+.car-bground1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:coral;
+    border-radius: 20px;
+    padding:10px  20px;
+}
+
+ 
+.split2{
+    height: 60%;
+    width: 25%;
+    position: absolute;
+    z-index: 1;
+    margin-top: 32%;
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.left2{
+    left: 0;
+    background-color: rgb(11, 221, 39);
+}
+.right2{
+    right: 0;
+    background-color: rgb(223, 16, 161);
+}
+
+.middle12{
+    left: 25%;
+    background-color: rgb(166, 194, 8);
+}
+  
+.middle22{
+   left: 50%;
+    background-color: rgb(7, 172, 81);
+}
+  
+.car-bground2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:coral;
+    border-radius: 20px;
+    padding:10px  20px;
+}
+
+.split3{
+    height: 60%;
+    width: 25%;
+    position: absolute;
+    z-index: 1;
+    margin-top: 63%;
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.left3{
+    left: 0;
+    background-color: tan;
+}
+.right3{
+    right: 0;
+    background-color: rgb(16, 140, 223);
+}
+
+.middle13{
+    left: 25%;
+    background-color: rgb(8, 194, 39);
+}
+  
+.middle23{
+   left: 50%;
+    background-color: rgb(172, 7, 109);
+}
+
+  
+.car-bground3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:coral;
+    border-radius: 20px;
+    padding:10px  20px;
+}
+
+ .car-bground1 img,.car-bground2 img{
+border-radius: 20px;
+ }
+
+ .car-bground3 img{
+    border-radius: 20px;
+ }
+
+
+
+ 
+
+.arange{
+   width: 25%; 
+   float: left;
+   text-align: center;
+   padding: 0 50px;
+   box-sizing: border-box;
+   background-color:chartreuse;
+}
+
+
+.arange img{
+    width: 120px;
+    height: 30px;
+}
+
+.arange:hover{
+    background-color: blue;
+}
+.arange button{
+    background-color: #4CAF50;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    color: wheat;
+    border-radius: 20px;
+}
+.text{
+    text-decoration: none;
+}
+
+.text:hover{
+    background-color: red;
+}
+
+
+.wrap{
+    background-color: blue;
+    width: 100%;
+    height: 100vh;
+    padding: 15PX;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boma{
+    width: 500px;
+    padding: 30px;
+    border-radius: 16px;
+    background-color: wheat;
+}
+.title{
+    font-weight: 500;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+
+.para{
+    color: #04AA6D;
+    font-weight: 400;
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+
+.input-group{
+    position: relative;
+    
+}
+
+.submit-btn{
+    width: 100%;
+    background-color: blueviolet;
+    font-size: 16px;
+    padding: 13px 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
+.input-group .title{
+    display: block;
+}
+.icon{
+     font-size: 23px;
+    color: chocolate;
+    text-align: center;
+}
+
+.form1{
+    background-color: tan;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit,.reset{
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    cursor: pointer;
+    border-radius: 20PX;
+}
+
+
+
+
+

@@ -1,0 +1,186 @@
+.back{
+    background-color: rgb(216, 70, 70);
+}
+.car{
+    border: 1px solid;
+    width: 300px;
+    height: 250px;
+    cursor: pointer;
+    border-color: rgb(107, 10, 233);
+    display: -ms-inline-grid; 
+    margin-top: 20px;
+    margin-left: 20px;  
+}
+
+.title-view{
+    background-color: rgb(152, 241, 7);
+    color: white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.download1{
+    background-color: orange;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.download2{
+    background-color: orange;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.download3{
+    background-color: orange;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+.download4{
+    background-color: orange;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.download5{
+    background-color: orange;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.download6{
+    background-color: orange;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.download7{
+    background-color: orange;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+.download8{
+    background-color: orange;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+.download9{
+    background-color: orange;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+    cursor: pointer;
+}
+
+.head-related{
+    background-color: rgb(2, 2, 133);
+    color: rgb(168, 172, 145);
+}
+
+
+.biriani2,.chips-kuku2,.chips-mishikaki2,.kuku-ndizi2,.pilau-rosti2{ 
+    margin-left: 45px;
+    border: 1px solid;
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+    border-color: rgb(107, 10, 233);
+    display: -ms-inline-grid; 
+}
+ 
+.pilau-rosti2,.ugali-nyama2,.wali-nyama2,.wali-samaki2{ 
+   border: 1px solid;
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+    border-color: rgb(107, 10, 233);
+    display: -ms-inline-grid; 
+    margin-left: 45px; 
+}
+
+.bei{
+    margin-left: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:rgb(5, 2, 187);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.sam-car{
+    margin-left: 45px;
+    background-color: blue;
+    color: white;
+    font-size: 20px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: bold;
+}
+
+.front-part{
+    width: 100%;
+    position: fixed;
+    background-color:rgb(69, 7, 216);
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .car-part{
+    padding-top: 6%;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .related{
+    background-color: blueviolet;
+ }
+ .arange-related{ 
+    width: 24%;
+    text-align: center;
+    padding:20px  20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: chocolate;
+ }
+ .arange-related img{
+    border-radius: 20px;
+ }
+ .head-xtrial{
+    margin-top: 95%;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
