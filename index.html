@@ -191,7 +191,7 @@
 
   <div class="split2 middle22"> 
   <div class="car-bground2">
-    <img src="project picture/SUZUKI Alto/BN563812_233693.jpg" alt="SUZUKI Alto/BN563812_233693.jpg" class="wali-nyama">
+    <img src="project picture/SUZUKI Alto/BN563812_233693.jpg" alt="project picture/SUZUKI Alto/BN563812_233693.jpg" class="wali-nyama">
        <button class="be7">$ 500/-</button>
     <button><a href="suzuki-alto.html">MORE PICTURE...</a> </button>
           <button class="w-car"   
@@ -219,11 +219,11 @@
   <img src="project picture/toyota website.jpg " alt="project picture/ toyota website.jpg" class="logo-account"><br>
   <button  class="account-create">FILL BELOW TO LOGIN INTO ACCOUNT</button>
   
-  <FORM METHOD=POST|GET ACTION=”name and location”>
+  <FORM name="f1" action = "authentication.php" onsubmit = "return validation()" METHOD= "POST">
     
     <div class="container">   
       <label>WRITE YOUR EMAIL: </label> <br>  
-      <input type="email" placeholder="Enter email" name="useremail" size="50" id="email" required> <br><br> 
+      <input type="email" placeholder="Enter email" name="email" size="50" id="email" required> <br><br> 
       <label> WRITE YOUR PASSWORD: </label> <br>  
       <input type="password" placeholder="Enter Password" name="password" size="50" id="password" required>  
       <button type="submit" class="log-btn" id="login" onclick="auth();">LOGIN</button>   
