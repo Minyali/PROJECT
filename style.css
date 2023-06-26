@@ -1026,3 +1026,10 @@ border-radius: 20px;
     border-radius: 20PX;
 }
 
+
+.warning{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: bold;
+    background-color: #ddd;
+}
