@@ -1033,3 +1033,7 @@ border-radius: 20px;
     font-weight: bold;
     background-color: #ddd;
 }
+
+.prevent{   
+    padding: 2px;
+}   
